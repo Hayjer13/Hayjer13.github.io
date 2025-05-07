@@ -1,8 +1,12 @@
 # Hayden Hernandez's Portfolio
 
+This is my home page! My name is Hayden and I am a student at [Cal State Fullerton](http://www.fullerton.edu/).
+
 I am a computer science major and I plan on graduating in 2028.
 
 ## My favorite CPSC 120L Labs
+
+My Github page is [here](http://github.com/Hayjer13)
 
 Lab 2, part 1
 This was a fun lab for me because it was about making a madlib. I liked it because it was a good introduction lab to start things off. I also liked this lab because I was able to understand the code pretty well.
